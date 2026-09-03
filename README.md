@@ -18,7 +18,7 @@
 ```text
 Foreve/
 ├── Foreve.csproj      # C# 项目；需要本地安装《Slay the Spire 2》和 Godot 4.5.1
-├── foreve.json         # Mod 清单
+├── Foreve.json         # Mod 清单
 ├── project.godot       # Godot 项目
 ├── export_presets.cfg  # PCK 导出预设
 ├── Scripts/            # C# 源码

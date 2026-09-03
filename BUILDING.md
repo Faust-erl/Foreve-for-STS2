@@ -38,7 +38,7 @@ dotnet build
 
 说明：
 
-- `dotnet build` 会把 `Foreve.dll`、`Foreve.pdb`、`foreve.json` 和仓库内素材复制到游戏 `mods\Foreve\`。
+- `dotnet build` 会把 `Foreve.dll`、`Foreve.pdb`、`Foreve.json` 和仓库内素材复制到游戏 `mods\Foreve\`。
 - `foreve.pck` 不在仓库中；如果本目录不存在 `foreve.pck`，构建会跳过 PCK 复制，不会报错。
 - 本地化 JSON 已作为 C# 内嵌资源编译进 DLL，因此只改本地化文本时只需重新 build。
 
