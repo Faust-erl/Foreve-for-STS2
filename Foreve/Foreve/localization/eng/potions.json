@@ -1,0 +1,10 @@
+{
+  "FOREVE_POTION_OGIER_HONOR_MIXTURE.title": "Honor Mixture",
+  "FOREVE_POTION_OGIER_HONOR_MIXTURE.description": "Gain 2 Honor.",
+
+  "FOREVE_POTION_OGIER_KNIGHT_TOUGHNESS.title": "Knight's Toughness",
+  "FOREVE_POTION_OGIER_KNIGHT_TOUGHNESS.description": "Gain 12 Block and 1 Honor.",
+
+  "FOREVE_POTION_OGIER_PIERCING_OIL.title": "Piercing Oil",
+  "FOREVE_POTION_OGIER_PIERCING_OIL.description": "Your next Attack this turn deals additional piercing damage equal to its damage."
+}

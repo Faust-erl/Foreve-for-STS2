@@ -1,0 +1,25 @@
+{
+  "FOREVE_EVENT_OGIER_KNIGHTS_TRIAL.title": "骑士的试炼",
+  "FOREVE_EVENT_OGIER_KNIGHTS_TRIAL.pages.INITIAL.description": "一位古老的骑士之魂伫立在试炼场中央，向你投来审视的目光。",
+  "FOREVE_EVENT_OGIER_KNIGHTS_TRIAL.pages.INITIAL.options.TAKE_SPEAR.title": "握枪",
+  "FOREVE_EVENT_OGIER_KNIGHTS_TRIAL.pages.INITIAL.options.TAKE_SPEAR.description": "受到7点伤害，获得七艺之枪。",
+  "FOREVE_EVENT_OGIER_KNIGHTS_TRIAL.pages.INITIAL.options.RECITE_HONESTY.title": "默诵",
+  "FOREVE_EVENT_OGIER_KNIGHTS_TRIAL.pages.INITIAL.options.RECITE_HONESTY.description": "移除1张随机技能牌，获得诚实。",
+  "FOREVE_EVENT_OGIER_KNIGHTS_TRIAL.pages.INITIAL.options.LEAVE.title": "离开",
+  "FOREVE_EVENT_OGIER_KNIGHTS_TRIAL.pages.INITIAL.options.LEAVE.description": "回复10点生命。",
+  "FOREVE_EVENT_OGIER_KNIGHTS_TRIAL.pages.TAKE_SPEAR.description": "你握住长枪，感受到古老的技艺涌入体内。获得七艺之枪。",
+  "FOREVE_EVENT_OGIER_KNIGHTS_TRIAL.pages.RECITE_HONESTY.description": "你默诵骑士的戒律，内心愈发澄澈。获得诚实。",
+  "FOREVE_EVENT_OGIER_KNIGHTS_TRIAL.pages.LEAVE.description": "你转身离去，脚步坚定，伤势有所好转。",
+
+  "FOREVE_EVENT_OGIER_PRINCESS_GIFT.title": "公主的赠礼",
+  "FOREVE_EVENT_OGIER_PRINCESS_GIFT.pages.INITIAL.description": "一位公主在花园中静候，手中捧着一枚发光的勋章。",
+  "FOREVE_EVENT_OGIER_PRINCESS_GIFT.pages.INITIAL.options.TAKE_MEDAL.title": "接过",
+  "FOREVE_EVENT_OGIER_PRINCESS_GIFT.pages.INITIAL.options.TAKE_MEDAL.description": "获得荣光勋章。",
+  "FOREVE_EVENT_OGIER_PRINCESS_GIFT.pages.INITIAL.options.REFUSE.title": "婉拒",
+  "FOREVE_EVENT_OGIER_PRINCESS_GIFT.pages.INITIAL.options.REFUSE.description": "失去5点最大生命值。",
+  "FOREVE_EVENT_OGIER_PRINCESS_GIFT.pages.INITIAL.options.KNEEL.title": "单膝跪地",
+  "FOREVE_EVENT_OGIER_PRINCESS_GIFT.pages.INITIAL.options.KNEEL.description": "受到15点伤害，获得七艺·传承美德。",
+  "FOREVE_EVENT_OGIER_PRINCESS_GIFT.pages.TAKE_MEDAL.description": "你郑重接过勋章，荣誉之心更加坚定。",
+  "FOREVE_EVENT_OGIER_PRINCESS_GIFT.pages.REFUSE.description": "你婉言谢绝，她眼中闪过一丝赞许。",
+  "FOREVE_EVENT_OGIER_PRINCESS_GIFT.pages.KNEEL.description": "你单膝跪地以示忠诚，公主赠予你失传的武艺。"
+}

@@ -1,0 +1,34 @@
+{
+  "FOREVE_RELIC_ROTAN_BLACK_SWORDSMAN_BLADE.title": "黑衣剑士的剑",
+  "FOREVE_RELIC_ROTAN_BLACK_SWORDSMAN_BLADE.description": "每回合你首次打出打击后，抽1张牌。",
+  "FOREVE_RELIC_ROTAN_BLACK_SWORDSMAN_BLADE.flavor": "一柄漆黑的长剑，剑身上刻着无法辨认的文字。",
+
+  "FOREVE_RELIC_OGIER_KNIGHT_BADGE.title": "骑士纹章",
+  "FOREVE_RELIC_OGIER_KNIGHT_BADGE.description": "每回合你首次完全格挡一次攻击时，获得1层荣誉。",
+  "FOREVE_RELIC_OGIER_KNIGHT_BADGE.flavor": "一枚黯淡的骑士纹章，铭刻着古老的誓约。",
+
+  "FOREVE_RELIC_OGIER_GAUNTLET.title": "覆甲护手",
+  "FOREVE_RELIC_OGIER_GAUNTLET.description": "每场战斗开始时，获得6层覆甲。",
+  "FOREVE_RELIC_OGIER_GAUNTLET.flavor": "厚重的金属护手，为勇者抵挡每一次冲击。",
+
+  "FOREVE_RELIC_OGIER_GLORY_MEDAL.title": "荣光勋章",
+  "FOREVE_RELIC_OGIER_GLORY_MEDAL.description": "荣誉上限+2。回合开始时，若你拥有5层以上的荣誉，获得1点力量。",
+  "FOREVE_RELIC_OGIER_GLORY_MEDAL.flavor": "一枚耀眼的勋章，见证着无数以盾御敌的时刻。",
+
+  "FOREVE_RELIC_OGIER_TRAINING_SWORD.title": "训练用的木剑",
+  "FOREVE_RELIC_OGIER_TRAINING_SWORD.description": "回合结束时，若你拥有至少3层荣誉，随机升级弃牌堆中的1张牌。",
+  "FOREVE_RELIC_OGIER_TRAINING_SWORD.flavor": "一把久经磨损的木剑，剑柄上残留着细密的刻痕。",
+
+  "FOREVE_RELIC_OGIER_LOST_LIGHT_SWORD.title": "失光圣剑",
+  "FOREVE_RELIC_OGIER_LOST_LIGHT_SWORD.description": "每当你消耗1层荣誉，对随机敌人造成3点伤害。",
+  "FOREVE_RELIC_OGIER_LOST_LIGHT_SWORD.flavor": "一柄失去光泽的圣剑，剑刃上仍残留着微光。"
+
+,
+  "FOREVE_RELIC_DORE_NUTRITION_TANK.title": "营养缸",
+  "FOREVE_RELIC_DORE_NUTRITION_TANK.description": "在每场战斗开始时，获得1层再生。",
+  "FOREVE_RELIC_DORE_NUTRITION_TANK.flavor": "装满淡绿色培养液的玻璃缸，维持着身体组织的活性。",
+  "FOREVE_RELIC_DORE_TECHNICAL_MANUAL.title": "技术手册",
+  "FOREVE_RELIC_DORE_TECHNICAL_MANUAL.description": "你的攻击牌获得保留。",
+  "FOREVE_RELIC_DORE_TECHNICAL_MANUAL.flavor": "写满手术流程与能量公式的旧手册，纸页边缘已经卷起。"
+
+}

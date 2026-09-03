@@ -1,0 +1,30 @@
+# Godot 缓存 / 导入产物
+.godot/
+*.translation
+*.uid
+
+# .NET 构建产物
+obj/
+bin/
+*.user
+*.suo
+
+# Mod 构建/发布产物
+*.pck
+*.dll
+*.pdb
+*.zip
+发布/
+
+# 本地密钥与 Python 缓存
+.env
+__pycache__/
+*.pyc
+
+# 本地素材源大目录（如需保留请自行选择是否提交）
+/图像资源/
+/本地化备份20260814/
+
+# 游戏提取数据 / 第三方教程（这些不属于本 mod 原创内容，禁止入库）
+/tools/pck_loc/
+/SlayTheSpire2ModdingTutorials-master/

@@ -1,0 +1,63 @@
+[gd_resource type="SpriteFrames" load_steps=15 format=3]
+[ext_resource type="Texture2D" path="res://Foreve/Assets/Characters/Ogier/anim/idle_atlas.png" id="1"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_0"]
+atlas = ExtResource("1")
+region = Rect2(0, 0, 360, 349)
+[sub_resource type="AtlasTexture" id="AtlasTexture_1"]
+atlas = ExtResource("1")
+region = Rect2(360, 0, 360, 349)
+[sub_resource type="AtlasTexture" id="AtlasTexture_2"]
+atlas = ExtResource("1")
+region = Rect2(720, 0, 360, 349)
+[sub_resource type="AtlasTexture" id="AtlasTexture_3"]
+atlas = ExtResource("1")
+region = Rect2(1080, 0, 360, 349)
+[sub_resource type="AtlasTexture" id="AtlasTexture_4"]
+atlas = ExtResource("1")
+region = Rect2(0, 349, 360, 349)
+[sub_resource type="AtlasTexture" id="AtlasTexture_5"]
+atlas = ExtResource("1")
+region = Rect2(360, 349, 360, 349)
+[sub_resource type="AtlasTexture" id="AtlasTexture_6"]
+atlas = ExtResource("1")
+region = Rect2(720, 349, 360, 349)
+[sub_resource type="AtlasTexture" id="AtlasTexture_7"]
+atlas = ExtResource("1")
+region = Rect2(1080, 349, 360, 349)
+[sub_resource type="AtlasTexture" id="AtlasTexture_8"]
+atlas = ExtResource("1")
+region = Rect2(0, 698, 360, 349)
+[sub_resource type="AtlasTexture" id="AtlasTexture_9"]
+atlas = ExtResource("1")
+region = Rect2(360, 698, 360, 349)
+[sub_resource type="AtlasTexture" id="AtlasTexture_10"]
+atlas = ExtResource("1")
+region = Rect2(720, 698, 360, 349)
+[sub_resource type="AtlasTexture" id="AtlasTexture_11"]
+atlas = ExtResource("1")
+region = Rect2(1080, 698, 360, 349)
+[sub_resource type="AtlasTexture" id="AtlasTexture_12"]
+atlas = ExtResource("1")
+region = Rect2(0, 1047, 360, 349)
+
+[resource]
+animations = [{
+"frames": [
+SubResource("AtlasTexture_0"),
+SubResource("AtlasTexture_1"),
+SubResource("AtlasTexture_2"),
+SubResource("AtlasTexture_3"),
+SubResource("AtlasTexture_4"),
+SubResource("AtlasTexture_5"),
+SubResource("AtlasTexture_6"),
+SubResource("AtlasTexture_7"),
+SubResource("AtlasTexture_8"),
+SubResource("AtlasTexture_9"),
+SubResource("AtlasTexture_10"),
+SubResource("AtlasTexture_11"),
+SubResource("AtlasTexture_12")
+],
+"loop": true,
+"name": &"idle",
+"speed": 16
+}]

@@ -1,0 +1,36 @@
+{
+  "FOREVE_CHARACTER_ROTAN_CHARACTER.title": "萝坦",
+  "FOREVE_CHARACTER_ROTAN_CHARACTER.description": "一位挥舞漆黑长剑的少女战士。\n她的剑技围绕[gold]打击[/gold]构筑，每一下挥砍都为下一击积蓄力量。",
+  "FOREVE_CHARACTER_ROTAN_CHARACTER.pronounSubject": "她",
+  "FOREVE_CHARACTER_ROTAN_CHARACTER.pronounObject": "她",
+  "FOREVE_CHARACTER_ROTAN_CHARACTER.pronounPossessive": "她的",
+  "FOREVE_CHARACTER_ROTAN_CHARACTER.possessiveAdjective": "她的",
+  "FOREVE_CHARACTER_ROTAN_CHARACTER.titleObject": "萝坦",
+  "FOREVE_CHARACTER_ROTAN_CHARACTER.cardsModifierTitle": "萝坦卡牌",
+  "FOREVE_CHARACTER_ROTAN_CHARACTER.cardsModifierDescription": "萝坦的卡牌现在会出现在奖励和商店中。",
+  "FOREVE_CHARACTER_ROTAN_CHARACTER.unlockText": "初始角色，无需解锁。",
+
+  "FOREVE_CHARACTER_OGIER_CHARACTER.title": "奥吉尔",
+  "FOREVE_CHARACTER_OGIER_CHARACTER.description": "一位恪守荣誉誓言的骑士。\n他通过[gold]完全格挡[/gold]攻击来积累荣誉，荣誉能提升攻击威力，也能被消耗以施展强力招式。",
+  "FOREVE_CHARACTER_OGIER_CHARACTER.pronounSubject": "他",
+  "FOREVE_CHARACTER_OGIER_CHARACTER.pronounObject": "他",
+  "FOREVE_CHARACTER_OGIER_CHARACTER.pronounPossessive": "他的",
+  "FOREVE_CHARACTER_OGIER_CHARACTER.possessiveAdjective": "他的",
+  "FOREVE_CHARACTER_OGIER_CHARACTER.titleObject": "奥吉尔",
+  "FOREVE_CHARACTER_OGIER_CHARACTER.cardsModifierTitle": "奥吉尔卡牌",
+  "FOREVE_CHARACTER_OGIER_CHARACTER.cardsModifierDescription": "奥吉尔的卡牌现在会出现在奖励和商店中。",
+  "FOREVE_CHARACTER_OGIER_CHARACTER.unlockText": "初始角色，无需解锁。"
+
+,
+  "FOREVE_CHARACTER_DORE_CHARACTER.title": "朵尔",
+  "FOREVE_CHARACTER_DORE_CHARACTER.description": "一位以再生与银钥能量维持机能的医疗兵。\n她能用生命换取攻防，也能把牌库整理成精确的排序。",
+  "FOREVE_CHARACTER_DORE_CHARACTER.pronounSubject": "她",
+  "FOREVE_CHARACTER_DORE_CHARACTER.pronounObject": "她",
+  "FOREVE_CHARACTER_DORE_CHARACTER.pronounPossessive": "她的",
+  "FOREVE_CHARACTER_DORE_CHARACTER.possessiveAdjective": "她的",
+  "FOREVE_CHARACTER_DORE_CHARACTER.titleObject": "朵尔",
+  "FOREVE_CHARACTER_DORE_CHARACTER.cardsModifierTitle": "朵尔卡牌",
+  "FOREVE_CHARACTER_DORE_CHARACTER.cardsModifierDescription": "朵尔的卡牌现在会出现在奖励和商店中。",
+  "FOREVE_CHARACTER_DORE_CHARACTER.unlockText": "初始角色，无需解锁。"
+
+}

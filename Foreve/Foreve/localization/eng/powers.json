@@ -1,0 +1,74 @@
+{
+  "FOREVE_POWER_OGIER_BLEED_POWER.title": "Bleed",
+  "FOREVE_POWER_OGIER_BLEED_POWER.description": "At the start of the turn, take {Amount} unblockable damage, then this status disappears.",
+
+  "FOREVE_POWER_OGIER_BROKEN_OATH_POWER.title": "Broken Oath",
+  "FOREVE_POWER_OGIER_BROKEN_OATH_POWER.description": "At the end of your turn, if you have Block, lose 3 Block.",
+
+  "FOREVE_POWER_OGIER_COMPASSION_POWER.title": "Compassion",
+  "FOREVE_POWER_OGIER_COMPASSION_POWER.description": "At the start of your turn, if you have a debuff, gain 4 Block.",
+
+  "FOREVE_POWER_OGIER_COURAGE_POWER.title": "Courage",
+  "FOREVE_POWER_OGIER_COURAGE_POWER.description": "When you take damage, gain 1 Strength next turn.",
+
+  "FOREVE_POWER_OGIER_COURAGE_NEXT_TURN_STRENGTH_POWER.title": "Courage",
+  "FOREVE_POWER_OGIER_COURAGE_NEXT_TURN_STRENGTH_POWER.description": "Gain {Amount} Strength next turn.",
+
+  "FOREVE_POWER_OGIER_GAUNTLET_ARMOR_POWER.title": "Plated Armor",
+  "FOREVE_POWER_OGIER_GAUNTLET_ARMOR_POWER.description": "At the end of your turn, gain {Amount} Block. When you take unblocked damage, lose 1.",
+
+  "FOREVE_POWER_OGIER_HOLD_GROUND_END_TURN_POWER.title": "Hold the Line",
+  "FOREVE_POWER_OGIER_HOLD_GROUND_END_TURN_POWER.description": "At the end of your turn, if you have Block, gain 1 Honor.",
+
+  "FOREVE_POWER_OGIER_HONESTY_POWER.title": "Honesty",
+  "FOREVE_POWER_OGIER_HONESTY_POWER.description": "Whenever you gain Honor, gain 1 additional Honor.",
+
+  "FOREVE_POWER_OGIER_HONOR_POWER.title": "Honor",
+  "FOREVE_POWER_OGIER_HONOR_POWER.description": "While you have Honor, your Attacks deal +2 damage.",
+
+  "FOREVE_POWER_OGIER_BLOCK_HONOR_POWER.title": "Honor",
+  "FOREVE_POWER_OGIER_BLOCK_HONOR_POWER.description": "When you fully block an attack, gain 1 Honor.",
+
+  "FOREVE_POWER_OGIER_HUMILITY_POWER.title": "Humility",
+  "FOREVE_POWER_OGIER_HUMILITY_POWER.description": "At the end of your turn, if you didn't play an Attack, gain 1 Honor and 5 Block.",
+
+  "FOREVE_POWER_OGIER_JUSTICE_POWER.title": "Justice",
+  "FOREVE_POWER_OGIER_JUSTICE_POWER.description": "After you deal damage to an enemy with Block, draw 1 card.",
+
+  "FOREVE_POWER_OGIER_KNIGHTS_GLORY_MAX_HONOR_POWER.title": "Knight's Glory",
+  "FOREVE_POWER_OGIER_KNIGHTS_GLORY_MAX_HONOR_POWER.description": "Increase Honor limit by 4.",
+
+  "FOREVE_POWER_OGIER_LOYALTY_POWER.title": "Loyalty",
+  "FOREVE_POWER_OGIER_LOYALTY_POWER.description": "At the end of your turn, gain 1 Honor and 3 Block. This stops working after you take damage.",
+
+  "FOREVE_POWER_OGIER_PIERCING_OIL_POWER.title": "Piercing Oil",
+  "FOREVE_POWER_OGIER_PIERCING_OIL_POWER.description": "Your next Attack deals additional piercing damage equal to its damage.",
+
+  "FOREVE_POWER_OGIER_SACRIFICE_POWER.title": "Sacrifice",
+  "FOREVE_POWER_OGIER_SACRIFICE_POWER.description": "Whenever you lose HP, gain Block equal to the HP lost.",
+
+  "FOREVE_POWER_OGIER_UNYIELDING_POWER.title": "Unyielding",
+  "FOREVE_POWER_OGIER_UNYIELDING_POWER.description": "Reduce damage you take by 1 for each Honor.",
+  "FOREVE_POWER_DORE_PERSISTENT_SPIRIT_POWER.title": "Persistent Spirit",
+  "FOREVE_POWER_DORE_PERSISTENT_SPIRIT_POWER.description": "Add an Exhausting copy of the previous card you played to your hand.",
+  "FOREVE_POWER_DORE_MIND_ANALYSIS_STRENGTH_LOSS_POWER.title": "Mind Analysis",
+  "FOREVE_POWER_DORE_MIND_ANALYSIS_STRENGTH_LOSS_POWER.description": "Loses {Amount} Strength this turn.",
+  "FOREVE_POWER_DORE_MIND_BODY_SPLIT_POWER.title": "Mind-Body Split",
+  "FOREVE_POWER_DORE_MIND_BODY_SPLIT_POWER.description": "Whenever Dore's Regeneration is reduced, gain 6 Block.",
+  "FOREVE_POWER_DORE_PURITY_POWER.title": "Pure Reason",
+  "FOREVE_POWER_DORE_PURITY_POWER.description": "Dore is unaffected by Weak, Frail, and Vulnerable.",
+  "FOREVE_POWER_DORE_BEYOND_BODY_POWER.title": "Beyond the Body",
+  "FOREVE_POWER_DORE_BEYOND_BODY_POWER.description": "At the end of your turn, if you have no Block, gain {Amount} Regeneration.",
+  "FOREVE_POWER_DORE_NOISY_VOICE_POWER.title": "Noisy Voice",
+  "FOREVE_POWER_DORE_NOISY_VOICE_POWER.description": "At the start of your turn, draw {Amount} card(s).",
+  "FOREVE_POWER_DORE_JOINT_LUBRICATION_POWER.title": "Joint Lubrication",
+  "FOREVE_POWER_DORE_JOINT_LUBRICATION_POWER.description": "At the start of your next {Amount} turns, gain 1 Dexterity.",
+  "FOREVE_POWER_DORE_SILVER_KEY_REACTOR_POWER.title": "Silver Key Reactor",
+  "FOREVE_POWER_DORE_SILVER_KEY_REACTOR_POWER.description": "At the start of your turn, spend 1 Silver Key and draw 1 card.",
+  "FOREVE_POWER_DORE_SILVER_KEY_RADIATION_POWER.title": "Silver Key Radiation",
+  "FOREVE_POWER_DORE_SILVER_KEY_RADIATION_POWER.description": "Whenever you spend Silver Keys, deal {Amount} damage to all enemies for each spent.",
+  "FOREVE_POWER_SILVER_KEY_OATH_POWER.title": "Eternal Obsession",
+  "FOREVE_POWER_SILVER_KEY_OATH_POWER.description": "At the end of your turn, lose 4 Strength.",
+  "FOREVE_POWER_SILVER_KEY_NEXT_TURN_BLOCK_POWER.title": "Bone-Crushing Embrace",
+  "FOREVE_POWER_SILVER_KEY_NEXT_TURN_BLOCK_POWER.description": "At the start of your next turn, gain {Amount} Block."
+}

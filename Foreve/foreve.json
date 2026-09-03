@@ -1,0 +1,15 @@
+{
+  "id": "foreve",
+  "name": "忘却前夜",
+  "pck_name": "foreve",
+  "author": "李昊儒",
+  "description": "双角色战斗模组。选择两名角色并肩作战，掌控银钥之力。",
+  "version": "0.1.0",
+  "min_game_version": "0.107.1",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [
+    { "id": "STS2-RitsuLib", "min_version": "0.2.27" }
+  ],
+  "affects_gameplay": true
+}

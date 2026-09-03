@@ -1,0 +1,16 @@
+{
+  "FOREVE_POTION_ROTAN_WHALE_TEAR.title": "鲸之泪",
+  "FOREVE_POTION_ROTAN_WHALE_TEAR.description": "给予目标 #b7 层再生。",
+
+  "FOREVE_POTION_ROTAN_INEXHAUSTIBLE_FERVOR.title": "无尽战意",
+  "FOREVE_POTION_ROTAN_INEXHAUSTIBLE_FERVOR.description": "给予目标 #b1 点力量。抽 #b1 张牌。",
+
+  "FOREVE_POTION_OGIER_HONOR_MIXTURE.title": "荣誉合剂",
+  "FOREVE_POTION_OGIER_HONOR_MIXTURE.description": "获得2层荣誉。",
+
+  "FOREVE_POTION_OGIER_KNIGHT_TOUGHNESS.title": "骑士的坚韧",
+  "FOREVE_POTION_OGIER_KNIGHT_TOUGHNESS.description": "获得12点格挡和1层荣誉。",
+
+  "FOREVE_POTION_OGIER_PIERCING_OIL.title": "穿刺精油",
+  "FOREVE_POTION_OGIER_PIERCING_OIL.description": "本回合你的下一次攻击额外造成等量穿刺伤害。"
+}

@@ -1,0 +1,28 @@
+{
+  "FOREVE_CHARACTER_ROTAN_CHARACTER.title": "Rotan",
+  "FOREVE_CHARACTER_ROTAN_CHARACTER.description": "A young swordswoman wielding a dark blade. Her techniques build around Strike, each slash empowering the next.",
+
+  "FOREVE_CHARACTER_OGIER_CHARACTER.title": "Ogier",
+  "FOREVE_CHARACTER_OGIER_CHARACTER.description": "A knight bound by an oath of honor. He gains Honor by fully blocking attacks; Honor empowers his attacks and can be spent on mighty techniques.",
+  "FOREVE_CHARACTER_OGIER_CHARACTER.pronounSubject": "he",
+  "FOREVE_CHARACTER_OGIER_CHARACTER.pronounObject": "him",
+  "FOREVE_CHARACTER_OGIER_CHARACTER.pronounPossessive": "his",
+  "FOREVE_CHARACTER_OGIER_CHARACTER.possessiveAdjective": "his",
+  "FOREVE_CHARACTER_OGIER_CHARACTER.titleObject": "Ogier",
+  "FOREVE_CHARACTER_OGIER_CHARACTER.cardsModifierTitle": "Ogier Cards",
+  "FOREVE_CHARACTER_OGIER_CHARACTER.cardsModifierDescription": "Ogier's cards now appear in rewards and shops.",
+  "FOREVE_CHARACTER_OGIER_CHARACTER.unlockText": "Starting character. No unlock required."
+
+,
+  "FOREVE_CHARACTER_DORE_CHARACTER.title": "Dore",
+  "FOREVE_CHARACTER_DORE_CHARACTER.description": "A medic sustained by regeneration and Silver Key energy. She trades life for offense and defense, and can arrange her deck into perfect order.",
+  "FOREVE_CHARACTER_DORE_CHARACTER.pronounSubject": "she",
+  "FOREVE_CHARACTER_DORE_CHARACTER.pronounObject": "her",
+  "FOREVE_CHARACTER_DORE_CHARACTER.pronounPossessive": "her",
+  "FOREVE_CHARACTER_DORE_CHARACTER.possessiveAdjective": "her",
+  "FOREVE_CHARACTER_DORE_CHARACTER.titleObject": "Dore",
+  "FOREVE_CHARACTER_DORE_CHARACTER.cardsModifierTitle": "Dore Cards",
+  "FOREVE_CHARACTER_DORE_CHARACTER.cardsModifierDescription": "Dore's cards now appear in rewards and shops.",
+  "FOREVE_CHARACTER_DORE_CHARACTER.unlockText": "Starting character. No unlock required."
+
+}

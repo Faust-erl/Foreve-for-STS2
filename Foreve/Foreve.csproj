@@ -1,0 +1,61 @@
+<Project Sdk="Godot.NET.Sdk/4.5.1">
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>true</ImplicitUsings>
+    <LangVersion>13.0</LangVersion>
+    <Nullable>enable</Nullable>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+
+    <!--
+      可配置的 STS2 安装目录：
+      1. 命令行/属性传入：dotnet build -p:Sts2Dir="D:\SteamLibrary\..."
+      2. 环境变量 STS2_DIR
+      3. 未设置时回退到 Windows 默认 Steam 路径
+    -->
+    <Sts2Dir Condition="'$(Sts2Dir)' == '' and '$(STS2_DIR)' != ''">$(STS2_DIR)</Sts2Dir>
+    <Sts2Dir Condition="'$(Sts2Dir)' == ''">C:\Program Files (x86)\Steam\steamapps\common\Slay the Spire 2</Sts2Dir>
+    <Sts2DataDir>$(Sts2Dir)\data_sts2_windows_x86_64</Sts2DataDir>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="sts2">
+      <HintPath>$(Sts2DataDir)\sts2.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+
+    <Reference Include="0Harmony">
+      <HintPath>$(Sts2DataDir)\0Harmony.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+
+    <PackageReference Include="STS2.RitsuLib" Version="*" />
+
+    <EmbeddedResource Include="Foreve\localization\*.json" />
+  </ItemGroup>
+
+  <!-- 自动复制 dll/json/pck 和素材到游戏 mods 目录 -->
+  <Target Name="CopyMod" AfterTargets="PostBuildEvent">
+    <Message Text="Copying mod to Slay the Spire 2 mods folder..." Importance="high" />
+    <MakeDir Directories="$(Sts2Dir)\mods\$(MSBuildProjectName)\" />
+    <Copy SourceFiles="$(TargetPath)" DestinationFolder="$(Sts2Dir)\mods\$(MSBuildProjectName)\" />
+    <Copy SourceFiles="$(TargetDir)$(TargetName).pdb" DestinationFolder="$(Sts2Dir)\mods\$(MSBuildProjectName)\" Condition="Exists('$(TargetDir)$(TargetName).pdb')" />
+    <Copy SourceFiles="$(MSBuildProjectName).json" DestinationFolder="$(Sts2Dir)\mods\$(MSBuildProjectName)\" />
+
+    <!-- foreve.pck 是 Godot 导出产物，不入库；仓库中不存在时跳过，不中断 dotnet build -->
+    <Copy SourceFiles="$(ProjectDir)foreve.pck" DestinationFolder="$(Sts2Dir)\mods\$(MSBuildProjectName)\" Condition="Exists('$(ProjectDir)foreve.pck')" />
+
+    <!-- 复制钥令素材（从项目内 Foreve/Assets/UI/KeyOrders 复制到 mods\Foreve\Assets\KeyOrders） -->
+    <ItemGroup>
+      <KeyOrderAssets Include="$(ProjectDir)Foreve\Assets\UI\KeyOrders\*.png" />
+    </ItemGroup>
+    <MakeDir Directories="$(Sts2Dir)\mods\$(MSBuildProjectName)\Assets\KeyOrders\" />
+    <Copy SourceFiles="@(KeyOrderAssets)" DestinationFolder="$(Sts2Dir)\mods\$(MSBuildProjectName)\Assets\KeyOrders\" />
+
+    <!-- 复制篝火「复活」选项插图（从项目内 Foreve/Assets/UI/复活.png 复制到 mods\Foreve\Assets\UI） -->
+    <ItemGroup>
+      <ReviveIconAsset Include="$(ProjectDir)Foreve\Assets\UI\复活.png" />
+    </ItemGroup>
+    <MakeDir Directories="$(Sts2Dir)\mods\$(MSBuildProjectName)\Assets\UI\" />
+    <Copy SourceFiles="@(ReviveIconAsset)" DestinationFolder="$(Sts2Dir)\mods\$(MSBuildProjectName)\Assets\UI\" />
+  </Target>
+</Project>

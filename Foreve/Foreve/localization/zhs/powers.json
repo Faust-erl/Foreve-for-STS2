@@ -1,0 +1,89 @@
+{
+  "FOREVE_POWER_ROTAN_UNTAMED_BLADE_POWER.title": "不羁之剑",
+  "FOREVE_POWER_ROTAN_UNTAMED_BLADE_POWER.description": "你的打击造成伤害后，对随机敌人造成等量伤害。",
+
+  "FOREVE_POWER_ROTAN_SCALE_ARMOR_POWER.title": "鳞甲",
+  "FOREVE_POWER_ROTAN_SCALE_ARMOR_POWER.description": "受到伤害前，将荆棘当作两倍格挡消耗。",
+
+  "FOREVE_POWER_ROTAN_DOUBLE_DAMAGE_POWER.title": "倍伤",
+  "FOREVE_POWER_ROTAN_DOUBLE_DAMAGE_POWER.description": "造成的伤害变为 #b{Amount}+1 倍。",
+
+  "FOREVE_POWER_ROTAN_STRIKE_REPLAY_POWER.title": "战意",
+  "FOREVE_POWER_ROTAN_STRIKE_REPLAY_POWER.description": "每当你打出打击后，抽 #b{Amount} 张牌。",
+
+  "FOREVE_POWER_ROTAN_ALL_ATTACKS_STRIKE_POWER.title": "皆为利刃",
+  "FOREVE_POWER_ROTAN_ALL_ATTACKS_STRIKE_POWER.description": "你的所有攻击牌均视为打击。",
+
+  "FOREVE_POWER_OGIER_BLEED_POWER.title": "流血",
+  "FOREVE_POWER_OGIER_BLEED_POWER.description": "回合开始时，受到{Amount}点不可格挡的伤害，随后此状态消失。",
+
+  "FOREVE_POWER_OGIER_BROKEN_OATH_POWER.title": "破碎的誓言",
+  "FOREVE_POWER_OGIER_BROKEN_OATH_POWER.description": "回合结束时，若你拥有格挡，失去3点格挡。",
+
+  "FOREVE_POWER_OGIER_COMPASSION_POWER.title": "怜悯",
+  "FOREVE_POWER_OGIER_COMPASSION_POWER.description": "回合开始时，若你拥有负面状态，获得4点格挡。",
+
+  "FOREVE_POWER_OGIER_COURAGE_POWER.title": "勇气",
+  "FOREVE_POWER_OGIER_COURAGE_POWER.description": "你受到伤害时，下回合获得1点力量。",
+
+  "FOREVE_POWER_OGIER_COURAGE_NEXT_TURN_STRENGTH_POWER.title": "勇气",
+  "FOREVE_POWER_OGIER_COURAGE_NEXT_TURN_STRENGTH_POWER.description": "下回合获得{Amount}点力量。",
+
+  "FOREVE_POWER_OGIER_GAUNTLET_ARMOR_POWER.title": "覆甲",
+  "FOREVE_POWER_OGIER_GAUNTLET_ARMOR_POWER.description": "回合结束时获得{Amount}点格挡。受到未被格挡的伤害时，减少1层。",
+
+  "FOREVE_POWER_OGIER_HOLD_GROUND_END_TURN_POWER.title": "坚守阵地",
+  "FOREVE_POWER_OGIER_HOLD_GROUND_END_TURN_POWER.description": "回合结束时，若你拥有格挡，获得1点荣誉。",
+
+  "FOREVE_POWER_OGIER_HONESTY_POWER.title": "诚实",
+  "FOREVE_POWER_OGIER_HONESTY_POWER.description": "每当你获得荣誉时，额外获得1层。",
+
+  "FOREVE_POWER_OGIER_HONOR_POWER.title": "荣誉",
+  "FOREVE_POWER_OGIER_HONOR_POWER.description": "拥有荣誉时，你的攻击伤害+2。",
+
+  "FOREVE_POWER_OGIER_BLOCK_HONOR_POWER.title": "荣誉",
+  "FOREVE_POWER_OGIER_BLOCK_HONOR_POWER.description": "完全格挡一次攻击时，获得1层荣誉。",
+
+  "FOREVE_POWER_OGIER_HUMILITY_POWER.title": "谦卑",
+  "FOREVE_POWER_OGIER_HUMILITY_POWER.description": "回合结束时，若你本回合未打出攻击牌，获得1点荣誉和5点格挡。",
+
+  "FOREVE_POWER_OGIER_JUSTICE_POWER.title": "公正",
+  "FOREVE_POWER_OGIER_JUSTICE_POWER.description": "你对拥有格挡的敌人造成伤害后，抽1张牌。",
+
+  "FOREVE_POWER_OGIER_KNIGHTS_GLORY_MAX_HONOR_POWER.title": "骑士的荣耀",
+  "FOREVE_POWER_OGIER_KNIGHTS_GLORY_MAX_HONOR_POWER.description": "荣誉上限+4。",
+
+  "FOREVE_POWER_OGIER_LOYALTY_POWER.title": "忠诚",
+  "FOREVE_POWER_OGIER_LOYALTY_POWER.description": "回合结束时，获得1点荣誉和3点格挡。你受到伤害后此效果失效。",
+
+  "FOREVE_POWER_OGIER_PIERCING_OIL_POWER.title": "穿刺精油",
+  "FOREVE_POWER_OGIER_PIERCING_OIL_POWER.description": "你的下一次攻击额外造成等量穿刺伤害。",
+
+  "FOREVE_POWER_OGIER_SACRIFICE_POWER.title": "牺牲",
+  "FOREVE_POWER_OGIER_SACRIFICE_POWER.description": "每当你失去生命值时，获得等量的格挡。",
+
+  "FOREVE_POWER_OGIER_UNYIELDING_POWER.title": "不屈",
+  "FOREVE_POWER_OGIER_UNYIELDING_POWER.description": "每拥有1层荣誉，使你受到的伤害减少1点。",
+  "FOREVE_POWER_DORE_PERSISTENT_SPIRIT_POWER.title": "存续精神",
+  "FOREVE_POWER_DORE_PERSISTENT_SPIRIT_POWER.description": "你使用的上一张牌会获得一张带有消耗的复制。",
+  "FOREVE_POWER_DORE_MIND_ANALYSIS_STRENGTH_LOSS_POWER.title": "心智分析",
+  "FOREVE_POWER_DORE_MIND_ANALYSIS_STRENGTH_LOSS_POWER.description": "本回合力量减少{Amount}点。",
+  "FOREVE_POWER_DORE_MIND_BODY_SPLIT_POWER.title": "灵肉两分",
+  "FOREVE_POWER_DORE_MIND_BODY_SPLIT_POWER.description": "每当朵尔再生层数减少时，获得6点格挡。",
+  "FOREVE_POWER_DORE_PURITY_POWER.title": "纯粹理性",
+  "FOREVE_POWER_DORE_PURITY_POWER.description": "朵尔不受虚弱、脆弱与易伤影响。",
+  "FOREVE_POWER_DORE_BEYOND_BODY_POWER.title": "超越躯壳",
+  "FOREVE_POWER_DORE_BEYOND_BODY_POWER.description": "回合结束时，若你没有格挡，获得{Amount}层再生。",
+  "FOREVE_POWER_DORE_NOISY_VOICE_POWER.title": "聒噪之声",
+  "FOREVE_POWER_DORE_NOISY_VOICE_POWER.description": "回合开始时抽{Amount}张牌。",
+  "FOREVE_POWER_DORE_JOINT_LUBRICATION_POWER.title": "关节润滑",
+  "FOREVE_POWER_DORE_JOINT_LUBRICATION_POWER.description": "接下来{Amount}个回合开始时，获得1点敏捷。",
+  "FOREVE_POWER_DORE_SILVER_KEY_REACTOR_POWER.title": "银芯反应堆",
+  "FOREVE_POWER_DORE_SILVER_KEY_REACTOR_POWER.description": "回合开始时，消耗1点银钥能量并抽1张牌。",
+  "FOREVE_POWER_DORE_SILVER_KEY_RADIATION_POWER.title": "银芯辐射",
+  "FOREVE_POWER_DORE_SILVER_KEY_RADIATION_POWER.description": "每当你消耗银钥能量时，对所有敌人造成{Amount}点伤害。",
+  "FOREVE_POWER_SILVER_KEY_OATH_POWER.title": "永世执念",
+  "FOREVE_POWER_SILVER_KEY_OATH_POWER.description": "你的回合结束时，失去4点力量。",
+  "FOREVE_POWER_SILVER_KEY_NEXT_TURN_BLOCK_POWER.title": "蚀骨的拥抱",
+  "FOREVE_POWER_SILVER_KEY_NEXT_TURN_BLOCK_POWER.description": "下个回合开始时，获得{Amount}点格挡。"
+}

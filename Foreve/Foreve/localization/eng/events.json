@@ -1,0 +1,25 @@
+{
+  "FOREVE_EVENT_OGIER_KNIGHTS_TRIAL.title": "Knight's Trial",
+  "FOREVE_EVENT_OGIER_KNIGHTS_TRIAL.pages.INITIAL.description": "An ancient knight's spirit stands in the center of the trial grounds, studying you with a piercing gaze.",
+  "FOREVE_EVENT_OGIER_KNIGHTS_TRIAL.pages.INITIAL.options.TAKE_SPEAR.title": "Take the spear",
+  "FOREVE_EVENT_OGIER_KNIGHTS_TRIAL.pages.INITIAL.options.TAKE_SPEAR.description": "Take 7 damage. Obtain the Spear of Seven Arts.",
+  "FOREVE_EVENT_OGIER_KNIGHTS_TRIAL.pages.INITIAL.options.RECITE_HONESTY.title": "Recite",
+  "FOREVE_EVENT_OGIER_KNIGHTS_TRIAL.pages.INITIAL.options.RECITE_HONESTY.description": "Remove a random Skill from your deck. Obtain Honesty.",
+  "FOREVE_EVENT_OGIER_KNIGHTS_TRIAL.pages.INITIAL.options.LEAVE.title": "Leave",
+  "FOREVE_EVENT_OGIER_KNIGHTS_TRIAL.pages.INITIAL.options.LEAVE.description": "Heal 10 HP.",
+  "FOREVE_EVENT_OGIER_KNIGHTS_TRIAL.pages.TAKE_SPEAR.description": "You grasp the spear and feel ancient mastery flow into you. Obtained the Spear of Seven Arts.",
+  "FOREVE_EVENT_OGIER_KNIGHTS_TRIAL.pages.RECITE_HONESTY.description": "You recite the knight's tenets and your heart grows clear. Obtained Honesty.",
+  "FOREVE_EVENT_OGIER_KNIGHTS_TRIAL.pages.LEAVE.description": "You turn and leave with steady steps, your wounds slightly better.",
+
+  "FOREVE_EVENT_OGIER_PRINCESS_GIFT.title": "Princess's Gift",
+  "FOREVE_EVENT_OGIER_PRINCESS_GIFT.pages.INITIAL.description": "A princess waits in the garden, cradling a glowing medal in her hands.",
+  "FOREVE_EVENT_OGIER_PRINCESS_GIFT.pages.INITIAL.options.TAKE_MEDAL.title": "Accept",
+  "FOREVE_EVENT_OGIER_PRINCESS_GIFT.pages.INITIAL.options.TAKE_MEDAL.description": "Obtain the Glory Medal.",
+  "FOREVE_EVENT_OGIER_PRINCESS_GIFT.pages.INITIAL.options.REFUSE.title": "Refuse",
+  "FOREVE_EVENT_OGIER_PRINCESS_GIFT.pages.INITIAL.options.REFUSE.description": "Lose 5 Max HP.",
+  "FOREVE_EVENT_OGIER_PRINCESS_GIFT.pages.INITIAL.options.KNEEL.title": "Kneel",
+  "FOREVE_EVENT_OGIER_PRINCESS_GIFT.pages.INITIAL.options.KNEEL.description": "Take 15 damage. Obtain the Virtue of Seven Arts.",
+  "FOREVE_EVENT_OGIER_PRINCESS_GIFT.pages.TAKE_MEDAL.description": "You accept the medal solemnly, your heart of honor growing firmer.",
+  "FOREVE_EVENT_OGIER_PRINCESS_GIFT.pages.REFUSE.description": "You politely decline, and a trace of approval flickers in her eyes.",
+  "FOREVE_EVENT_OGIER_PRINCESS_GIFT.pages.KNEEL.description": "You kneel on one knee in fealty, and the princess bestows a lost martial art upon you."
+}

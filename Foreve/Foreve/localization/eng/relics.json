@@ -1,0 +1,30 @@
+{
+  "FOREVE_RELIC_OGIER_KNIGHT_BADGE.title": "Knight's Badge",
+  "FOREVE_RELIC_OGIER_KNIGHT_BADGE.description": "The first time you fully block an attack each turn, gain 1 Honor.",
+  "FOREVE_RELIC_OGIER_KNIGHT_BADGE.flavor": "A tarnished knight's badge engraved with an ancient oath.",
+
+  "FOREVE_RELIC_OGIER_GAUNTLET.title": "Gauntlet",
+  "FOREVE_RELIC_OGIER_GAUNTLET.description": "At the start of each combat, gain 6 Plated Armor.",
+  "FOREVE_RELIC_OGIER_GAUNTLET.flavor": "Heavy metal gauntlets that shield the brave from every impact.",
+
+  "FOREVE_RELIC_OGIER_GLORY_MEDAL.title": "Glory Medal",
+  "FOREVE_RELIC_OGIER_GLORY_MEDAL.description": "Increase Honor limit by 2. At the start of your turn, if you have more than 5 Honor, gain 1 Strength.",
+  "FOREVE_RELIC_OGIER_GLORY_MEDAL.flavor": "A radiant medal, a testament to countless moments of guarding with your shield.",
+
+  "FOREVE_RELIC_OGIER_TRAINING_SWORD.title": "Training Sword",
+  "FOREVE_RELIC_OGIER_TRAINING_SWORD.description": "At the end of your turn, if you have at least 3 Honor, upgrade a random card in your discard pile.",
+  "FOREVE_RELIC_OGIER_TRAINING_SWORD.flavor": "A well-worn wooden sword, its hilt covered in fine nicks.",
+
+  "FOREVE_RELIC_OGIER_LOST_LIGHT_SWORD.title": "Lost Light Sword",
+  "FOREVE_RELIC_OGIER_LOST_LIGHT_SWORD.description": "Whenever you spend Honor, deal 3 damage to a random enemy for each Honor spent.",
+  "FOREVE_RELIC_OGIER_LOST_LIGHT_SWORD.flavor": "A holy sword that has lost its luster, though a faint light still clings to its edge."
+
+,
+  "FOREVE_RELIC_DORE_NUTRITION_TANK.title": "Nutrition Tank",
+  "FOREVE_RELIC_DORE_NUTRITION_TANK.description": "At the start of each combat, gain 1 Regeneration.",
+  "FOREVE_RELIC_DORE_NUTRITION_TANK.flavor": "A glass tank filled with pale green fluid, keeping living tissue active.",
+  "FOREVE_RELIC_DORE_TECHNICAL_MANUAL.title": "Technical Manual",
+  "FOREVE_RELIC_DORE_TECHNICAL_MANUAL.description": "Your Attacks Retain.",
+  "FOREVE_RELIC_DORE_TECHNICAL_MANUAL.flavor": "An old manual of surgical procedures and energy formulas, its pages curled at the edges."
+
+}

@@ -1,0 +1,3 @@
+[gd_scene load_steps=1 format=3]
+
+[node name="rotan_rest_site" type="Node2D"]
