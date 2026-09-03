@@ -8,8 +8,8 @@
 2. Clone 到本地：
 
    ```powershell
-   git clone https://github.com/<你的用户名>/Foreve.git
-   cd Foreve
+   git clone https://github.com/<你的GitHub用户名>/Foreve-for-STS2.git
+   cd Foreve-for-STS2
    ```
 
 3. 创建功能分支：
