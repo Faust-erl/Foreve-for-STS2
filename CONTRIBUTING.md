@@ -45,6 +45,7 @@
 - C# 项目使用 .NET 9 / Godot 4.5.1。
 - 新卡牌/遗物/药水/能力：创建对应 C# 类，并同步更新 `Foreve/Foreve/localization/` 中的中英文 JSON。
 - 新美术资源放入 `Foreve/Foreve/Assets/`，并让资源路径与代码中的 `res://Foreve/Assets/...` 一致。
+- 新增非原创素材时，必须同步在 `ASSETS-LICENSE.md` 中补充许可证、作者、来源链接；不接受无法提供来源的素材。
 - 不要提交：
   - `foreve.pck`
   - `obj/`、`bin/`、`.godot/`

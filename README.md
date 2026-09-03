@@ -45,4 +45,5 @@ Foreve/
 ## 许可证
 
 - 代码：MIT，见 [LICENSE](LICENSE)
-- 美术资源：请作者在发布前补充明确授权范围；如需保护素材，可在本文件单独声明“Assets All Rights Reserved”。
+- 美术资源：来源混合。其中一部分图片素材使用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-Hans)；完整说明和署名清单见 [ASSETS-LICENSE.md](ASSETS-LICENSE.md)。
+- 注意：包含 CC BY-NC-SA 素材的发布包只能免费非商业分发，并需保留署名。
